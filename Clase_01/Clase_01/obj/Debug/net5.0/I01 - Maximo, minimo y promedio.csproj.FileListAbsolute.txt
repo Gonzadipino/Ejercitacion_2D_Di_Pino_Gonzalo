@@ -1,0 +1,16 @@
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\Clase_01\bin\Debug\net5.0\I01 - Maximo, minimo y promedio.exe
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\Clase_01\bin\Debug\net5.0\I01 - Maximo, minimo y promedio.deps.json
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\Clase_01\bin\Debug\net5.0\I01 - Maximo, minimo y promedio.runtimeconfig.json
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\Clase_01\bin\Debug\net5.0\I01 - Maximo, minimo y promedio.runtimeconfig.dev.json
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\Clase_01\bin\Debug\net5.0\I01 - Maximo, minimo y promedio.dll
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\Clase_01\bin\Debug\net5.0\I01 - Maximo, minimo y promedio.pdb
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\Clase_01\obj\Debug\net5.0\I01 - Maximo, minimo y promedio.csproj.AssemblyReference.cache
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\Clase_01\obj\Debug\net5.0\I01 - Maximo, minimo y promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\Clase_01\obj\Debug\net5.0\I01 - Maximo, minimo y promedio.AssemblyInfoInputs.cache
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\Clase_01\obj\Debug\net5.0\I01 - Maximo, minimo y promedio.AssemblyInfo.cs
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\Clase_01\obj\Debug\net5.0\I01 - Maximo, minimo y promedio.csproj.CoreCompileInputs.cache
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\Clase_01\obj\Debug\net5.0\I01 - Maximo, minimo y promedio.dll
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\Clase_01\obj\Debug\net5.0\refint\I01 - Maximo, minimo y promedio.dll
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\Clase_01\obj\Debug\net5.0\I01 - Maximo, minimo y promedio.pdb
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\Clase_01\obj\Debug\net5.0\I01 - Maximo, minimo y promedio.genruntimeconfig.cache
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\Clase_01\obj\Debug\net5.0\ref\I01 - Maximo, minimo y promedio.dll

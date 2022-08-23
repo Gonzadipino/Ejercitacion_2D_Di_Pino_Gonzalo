@@ -1,0 +1,16 @@
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I02 - Error al cubo\bin\Debug\net5.0\I02 - Error al cubo.exe
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I02 - Error al cubo\bin\Debug\net5.0\I02 - Error al cubo.deps.json
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I02 - Error al cubo\bin\Debug\net5.0\I02 - Error al cubo.runtimeconfig.json
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I02 - Error al cubo\bin\Debug\net5.0\I02 - Error al cubo.runtimeconfig.dev.json
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I02 - Error al cubo\bin\Debug\net5.0\I02 - Error al cubo.dll
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I02 - Error al cubo\bin\Debug\net5.0\I02 - Error al cubo.pdb
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I02 - Error al cubo\obj\Debug\net5.0\I02 - Error al cubo.csproj.AssemblyReference.cache
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I02 - Error al cubo\obj\Debug\net5.0\I02 - Error al cubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I02 - Error al cubo\obj\Debug\net5.0\I02 - Error al cubo.AssemblyInfoInputs.cache
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I02 - Error al cubo\obj\Debug\net5.0\I02 - Error al cubo.AssemblyInfo.cs
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I02 - Error al cubo\obj\Debug\net5.0\I02 - Error al cubo.csproj.CoreCompileInputs.cache
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I02 - Error al cubo\obj\Debug\net5.0\I02 - Error al cubo.dll
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I02 - Error al cubo\obj\Debug\net5.0\refint\I02 - Error al cubo.dll
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I02 - Error al cubo\obj\Debug\net5.0\I02 - Error al cubo.pdb
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I02 - Error al cubo\obj\Debug\net5.0\I02 - Error al cubo.genruntimeconfig.cache
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I02 - Error al cubo\obj\Debug\net5.0\ref\I02 - Error al cubo.dll
