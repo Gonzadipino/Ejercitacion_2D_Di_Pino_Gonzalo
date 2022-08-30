@@ -1,0 +1,16 @@
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\A01- Calcular un factorial\bin\Debug\net5.0\A01- Calcular un factorial.exe
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\A01- Calcular un factorial\bin\Debug\net5.0\A01- Calcular un factorial.deps.json
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\A01- Calcular un factorial\bin\Debug\net5.0\A01- Calcular un factorial.runtimeconfig.json
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\A01- Calcular un factorial\bin\Debug\net5.0\A01- Calcular un factorial.runtimeconfig.dev.json
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\A01- Calcular un factorial\bin\Debug\net5.0\A01- Calcular un factorial.dll
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\A01- Calcular un factorial\bin\Debug\net5.0\A01- Calcular un factorial.pdb
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\A01- Calcular un factorial\obj\Debug\net5.0\A01- Calcular un factorial.csproj.AssemblyReference.cache
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\A01- Calcular un factorial\obj\Debug\net5.0\A01- Calcular un factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\A01- Calcular un factorial\obj\Debug\net5.0\A01- Calcular un factorial.AssemblyInfoInputs.cache
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\A01- Calcular un factorial\obj\Debug\net5.0\A01- Calcular un factorial.AssemblyInfo.cs
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\A01- Calcular un factorial\obj\Debug\net5.0\A01- Calcular un factorial.csproj.CoreCompileInputs.cache
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\A01- Calcular un factorial\obj\Debug\net5.0\A01- Calcular un factorial.dll
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\A01- Calcular un factorial\obj\Debug\net5.0\refint\A01- Calcular un factorial.dll
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\A01- Calcular un factorial\obj\Debug\net5.0\A01- Calcular un factorial.pdb
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\A01- Calcular un factorial\obj\Debug\net5.0\A01- Calcular un factorial.genruntimeconfig.cache
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\A01- Calcular un factorial\obj\Debug\net5.0\ref\A01- Calcular un factorial.dll

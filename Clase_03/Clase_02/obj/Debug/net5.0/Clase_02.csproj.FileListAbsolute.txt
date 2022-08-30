@@ -1,0 +1,16 @@
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\Clase_02\bin\Debug\net5.0\Clase_02.exe
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\Clase_02\bin\Debug\net5.0\Clase_02.deps.json
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\Clase_02\bin\Debug\net5.0\Clase_02.runtimeconfig.json
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\Clase_02\bin\Debug\net5.0\Clase_02.runtimeconfig.dev.json
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\Clase_02\bin\Debug\net5.0\Clase_02.dll
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\Clase_02\bin\Debug\net5.0\Clase_02.pdb
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\Clase_02\obj\Debug\net5.0\Clase_02.csproj.AssemblyReference.cache
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\Clase_02\obj\Debug\net5.0\Clase_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\Clase_02\obj\Debug\net5.0\Clase_02.AssemblyInfoInputs.cache
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\Clase_02\obj\Debug\net5.0\Clase_02.AssemblyInfo.cs
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\Clase_02\obj\Debug\net5.0\Clase_02.csproj.CoreCompileInputs.cache
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\Clase_02\obj\Debug\net5.0\Clase_02.dll
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\Clase_02\obj\Debug\net5.0\refint\Clase_02.dll
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\Clase_02\obj\Debug\net5.0\Clase_02.pdb
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\Clase_02\obj\Debug\net5.0\Clase_02.genruntimeconfig.cache
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\Clase_02\obj\Debug\net5.0\ref\Clase_02.dll

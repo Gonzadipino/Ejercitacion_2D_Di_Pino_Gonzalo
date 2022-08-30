@@ -1,0 +1,16 @@
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\I04 - La Calculadora\bin\Debug\net5.0\I04 - La Calculadora.exe
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\I04 - La Calculadora\bin\Debug\net5.0\I04 - La Calculadora.deps.json
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\I04 - La Calculadora\bin\Debug\net5.0\I04 - La Calculadora.runtimeconfig.json
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\I04 - La Calculadora\bin\Debug\net5.0\I04 - La Calculadora.runtimeconfig.dev.json
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\I04 - La Calculadora\bin\Debug\net5.0\I04 - La Calculadora.dll
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\I04 - La Calculadora\bin\Debug\net5.0\I04 - La Calculadora.pdb
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\I04 - La Calculadora\obj\Debug\net5.0\I04 - La Calculadora.csproj.AssemblyReference.cache
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\I04 - La Calculadora\obj\Debug\net5.0\I04 - La Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\I04 - La Calculadora\obj\Debug\net5.0\I04 - La Calculadora.AssemblyInfoInputs.cache
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\I04 - La Calculadora\obj\Debug\net5.0\I04 - La Calculadora.AssemblyInfo.cs
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\I04 - La Calculadora\obj\Debug\net5.0\I04 - La Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\I04 - La Calculadora\obj\Debug\net5.0\I04 - La Calculadora.dll
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\I04 - La Calculadora\obj\Debug\net5.0\refint\I04 - La Calculadora.dll
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\I04 - La Calculadora\obj\Debug\net5.0\I04 - La Calculadora.pdb
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\I04 - La Calculadora\obj\Debug\net5.0\I04 - La Calculadora.genruntimeconfig.cache
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\I04 - La Calculadora\obj\Debug\net5.0\ref\I04 - La Calculadora.dll

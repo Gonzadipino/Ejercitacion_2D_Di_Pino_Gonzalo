@@ -1,0 +1,16 @@
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\I01-Validador De Rangos\bin\Debug\net5.0\I01-Validador De Rangos.exe
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\I01-Validador De Rangos\bin\Debug\net5.0\I01-Validador De Rangos.deps.json
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\I01-Validador De Rangos\bin\Debug\net5.0\I01-Validador De Rangos.runtimeconfig.json
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\I01-Validador De Rangos\bin\Debug\net5.0\I01-Validador De Rangos.runtimeconfig.dev.json
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\I01-Validador De Rangos\bin\Debug\net5.0\I01-Validador De Rangos.dll
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\I01-Validador De Rangos\bin\Debug\net5.0\I01-Validador De Rangos.pdb
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\I01-Validador De Rangos\obj\Debug\net5.0\I01-Validador De Rangos.csproj.AssemblyReference.cache
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\I01-Validador De Rangos\obj\Debug\net5.0\I01-Validador De Rangos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\I01-Validador De Rangos\obj\Debug\net5.0\I01-Validador De Rangos.AssemblyInfoInputs.cache
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\I01-Validador De Rangos\obj\Debug\net5.0\I01-Validador De Rangos.AssemblyInfo.cs
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\I01-Validador De Rangos\obj\Debug\net5.0\I01-Validador De Rangos.csproj.CoreCompileInputs.cache
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\I01-Validador De Rangos\obj\Debug\net5.0\I01-Validador De Rangos.dll
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\I01-Validador De Rangos\obj\Debug\net5.0\refint\I01-Validador De Rangos.dll
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\I01-Validador De Rangos\obj\Debug\net5.0\I01-Validador De Rangos.pdb
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\I01-Validador De Rangos\obj\Debug\net5.0\I01-Validador De Rangos.genruntimeconfig.cache
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_02\I01-Validador De Rangos\obj\Debug\net5.0\ref\I01-Validador De Rangos.dll

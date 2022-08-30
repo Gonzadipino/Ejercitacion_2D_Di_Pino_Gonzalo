@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "I02 - Desea continuar/1.0.0": {
+        "runtime": {
+          "I02 - Desea continuar.dll": {}
+        }
+      },
+      "I01-Validador De Rangos/1.0.0": {
+        "runtime": {
+          "I01-Validador De Rangos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "I02 - Desea continuar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "I01-Validador De Rangos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

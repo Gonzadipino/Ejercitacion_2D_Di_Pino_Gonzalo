@@ -1,0 +1,16 @@
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I04 - Un numero perfecto\bin\Debug\net5.0\I04 - Un numero perfecto.exe
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I04 - Un numero perfecto\bin\Debug\net5.0\I04 - Un numero perfecto.deps.json
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I04 - Un numero perfecto\bin\Debug\net5.0\I04 - Un numero perfecto.runtimeconfig.json
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I04 - Un numero perfecto\bin\Debug\net5.0\I04 - Un numero perfecto.runtimeconfig.dev.json
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I04 - Un numero perfecto\bin\Debug\net5.0\I04 - Un numero perfecto.dll
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I04 - Un numero perfecto\bin\Debug\net5.0\I04 - Un numero perfecto.pdb
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I04 - Un numero perfecto\obj\Debug\net5.0\I04 - Un numero perfecto.csproj.AssemblyReference.cache
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I04 - Un numero perfecto\obj\Debug\net5.0\I04 - Un numero perfecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I04 - Un numero perfecto\obj\Debug\net5.0\I04 - Un numero perfecto.AssemblyInfoInputs.cache
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I04 - Un numero perfecto\obj\Debug\net5.0\I04 - Un numero perfecto.AssemblyInfo.cs
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I04 - Un numero perfecto\obj\Debug\net5.0\I04 - Un numero perfecto.csproj.CoreCompileInputs.cache
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I04 - Un numero perfecto\obj\Debug\net5.0\I04 - Un numero perfecto.dll
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I04 - Un numero perfecto\obj\Debug\net5.0\refint\I04 - Un numero perfecto.dll
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I04 - Un numero perfecto\obj\Debug\net5.0\I04 - Un numero perfecto.pdb
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I04 - Un numero perfecto\obj\Debug\net5.0\I04 - Un numero perfecto.genruntimeconfig.cache
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I04 - Un numero perfecto\obj\Debug\net5.0\ref\I04 - Un numero perfecto.dll

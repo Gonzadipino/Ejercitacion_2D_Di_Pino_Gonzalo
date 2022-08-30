@@ -6,31 +6,48 @@ namespace I03___Los_primos
     {
         static void Main(string[] args)
         {
+            double numeroPrimo;
             string cadena;
             int numero;
-            do {
+            do
+            {
+                Console.Clear();
+
                 Console.WriteLine("Ingrese un numero: ");
                 cadena = Console.ReadLine();
                 while (int.TryParse(cadena, out numero) == false)
                 {
                     Console.WriteLine("Error. Ingrese un numero valido o tipee 'salir' para terminar el programa: ");
                     cadena = Console.ReadLine();
+
                     if (cadena == "salir")
-                    {
                         break;
-                    }
                 }
-                for (int i = 0; i < numero; i++)
+
+                Console.Clear();
+                Console.WriteLine($"Numero primos hasta el {numero}: ");
+
+                for (int i = 1; i <= numero; i++)
                 {
-                    if ( i != 0 && i != 1 && i % i == 0)
+                    if (i == 2 || i == 3 || i == 5 || i == 7 || i == 11)
                     {
                         Console.WriteLine(i);
                     }
-                }
-                Console.WriteLine("Desea volver a ingresar un numero? S/N");
-                cadena = Console.ReadLine();
 
-            } while(cadena.ToLower() == "s");
+                    if (i % 2 != 0 && i % 3 != 0 && i % 5 != 0 && i % 7 != 0 && i % 11 != 0)
+                    {
+                        Console.WriteLine(i);
+                    }
+
+                }
+
+                if (cadena != "salir")
+                {
+                    Console.WriteLine("Toque cualquier tecla para volver a realizar la operacion o tipee 'salir' para finalizar el programa. . .");
+                    cadena = Console.ReadLine();
+                }
+
+            } while (cadena.ToLower() != "salir");
         }
     }
 }

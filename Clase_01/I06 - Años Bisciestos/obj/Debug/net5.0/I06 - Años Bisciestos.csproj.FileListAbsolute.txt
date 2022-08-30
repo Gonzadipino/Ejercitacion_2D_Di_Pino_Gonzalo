@@ -1,0 +1,16 @@
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I06 - Años Bisciestos\bin\Debug\net5.0\I06 - Años Bisciestos.exe
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I06 - Años Bisciestos\bin\Debug\net5.0\I06 - Años Bisciestos.deps.json
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I06 - Años Bisciestos\bin\Debug\net5.0\I06 - Años Bisciestos.runtimeconfig.json
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I06 - Años Bisciestos\bin\Debug\net5.0\I06 - Años Bisciestos.runtimeconfig.dev.json
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I06 - Años Bisciestos\bin\Debug\net5.0\I06 - Años Bisciestos.dll
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I06 - Años Bisciestos\bin\Debug\net5.0\I06 - Años Bisciestos.pdb
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I06 - Años Bisciestos\obj\Debug\net5.0\I06 - Años Bisciestos.csproj.AssemblyReference.cache
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I06 - Años Bisciestos\obj\Debug\net5.0\I06 - Años Bisciestos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I06 - Años Bisciestos\obj\Debug\net5.0\I06 - Años Bisciestos.AssemblyInfoInputs.cache
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I06 - Años Bisciestos\obj\Debug\net5.0\I06 - Años Bisciestos.AssemblyInfo.cs
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I06 - Años Bisciestos\obj\Debug\net5.0\I06 - Años Bisciestos.csproj.CoreCompileInputs.cache
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I06 - Años Bisciestos\obj\Debug\net5.0\I06 - Años Bisciestos.dll
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I06 - Años Bisciestos\obj\Debug\net5.0\refint\I06 - Años Bisciestos.dll
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I06 - Años Bisciestos\obj\Debug\net5.0\I06 - Años Bisciestos.pdb
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I06 - Años Bisciestos\obj\Debug\net5.0\I06 - Años Bisciestos.genruntimeconfig.cache
+C:\Users\54113\source\repos\Cautri 2 2022 prograLabo 2\Ejercitacion en clse\Clase_01\I06 - Años Bisciestos\obj\Debug\net5.0\ref\I06 - Años Bisciestos.dll

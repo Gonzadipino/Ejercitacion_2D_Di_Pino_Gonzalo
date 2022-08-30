@@ -9,8 +9,9 @@ namespace Clase_01
             int numero;
             int max = 0;
             int min = 0;
-            float acum = 0;
             bool flag = true;
+            float acum = 0;
+
             for (int i = 0; i < 5; i++)
             {
                 Console.WriteLine("Ingrese un numero: ");
@@ -20,11 +21,16 @@ namespace Clase_01
                     Console.WriteLine("Error. Ingrese un numero valido: ");
                 }
                 acum = acum + numero;
-                if (numero >= max || flag)
-                    max = numero;
-                if (numero <= min || flag)
+                if (flag)
+                {
                     min = numero;
-                flag = false;
+                    max = numero;
+                    flag = false;
+                }
+
+                max = Math.Max(numero, max);
+                min = Math.Min(min, numero);
+
                 Console.Clear();
             }
             Console.WriteLine($"El numero mas grande fue: {max}\n" +
